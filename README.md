@@ -1,4 +1,4 @@
-### [Demo!](https://youtu.be/MhMb5LuOb7k)
+### [Demo Video!](https://youtu.be/MhMb5LuOb7k)
 
 # Capstone
 While I cannot share my code at this time, some snippets of it will be coming soon! In the meantime, checkout some other projects I have worked on!
